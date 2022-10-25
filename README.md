@@ -2,8 +2,10 @@
 
 [![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhjagtap95)](https://github.com/sourabhjagtap95/sourabhjagtap95)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhjagtap95&layout=compact)](https://github.com/sourabhjagtap95/sourabhjagtap95)
-[![Sourabh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourabhjagtap95)](https://github.com/sourabhjagtap95/sourabhjagtap95)
+<!-- [![Sourabh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourabhjagtap95)](https://github.com/sourabhjagtap95/sourabhjagtap95) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sourabhjagtap95&repo=sourabhjagtap95)](https://github.com/sourabhjagtap95/sourabhjagtap95)
 <!--
+
 **sourabhjagtap95/sourabhjagtap95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
