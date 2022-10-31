@@ -13,7 +13,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhjagtap95&repo=sourabhjagtap95" />
 </p>
 
-[![Sourabh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourabhjagtap95)](https://github.com/sourabhjagtap95/sourabhjagtap95)
+
 [![@sourabhj's Holopin board](https://holopin.me/sourabhj)](https://holopin.io/@sourabhj)
 
 
