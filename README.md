@@ -5,13 +5,17 @@
 ## GitHub Statistics 📃
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sourabhjagtap95&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhjagtap95&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sourabhjagtap95&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhjagtap95&theme=tokyonight" />
 </p>
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhjagtap95&layout=compact" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhjagtap95&repo=sourabhjagtap95" />
 </p>
+
+[![Sourabh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourabhjagtap95)](https://github.com/sourabhjagtap95/sourabhjagtap95)
+
+[![@sourabhj's Holopin board](https://holopin.me/sourabhj)](https://holopin.io/@sourabhj)
 
 
 ## Technical Skills ✔
